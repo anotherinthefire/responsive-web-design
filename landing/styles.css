@@ -1,0 +1,93 @@
+/* 
+colors
+#0F0E0D black
+#F1C40F yellow
+#DDDCDC grey
+#EFEEEF light grey FFFEFE
+#FFFEFE white
+#FF8D01 orange
+
+*/
+
+body{
+font-family: sans-serif;
+margin:0px;
+background-color: #EFEEEF;
+color: #0F0E0D;
+}
+
+h1{
+    background-color: #DDDCDC;
+    padding: 20px 0px;
+}
+#header{
+position: fixed;
+display: flex;
+width: 100%;
+top: 0;
+height: 10vh;
+background-color: #EFEEEF;
+}
+
+#header a{
+    float: right;
+}
+
+
+#header-img{
+    margin-right: auto;
+    height: auto;
+}
+
+#nav-bar{
+ padding:3.5vh 0px ;
+}
+
+.nav-link{
+    text-decoration: none;
+    color: black;
+    padding: 0px 5vw;
+}
+
+#form{
+height: 20vh;
+width: 30vw;
+margin: 0px auto;
+}
+
+#email{
+    padding: 0.3rem 5.5rem 0.3rem 0.3rem ;
+    margin-bottom: 2vh;
+}
+
+#submit{
+    border: none;
+    border-radius: 5px;
+    background-color: #F1C40F;
+    padding: 8px 16px;
+    font-weight: bold;
+}
+
+#video{
+
+}
+
+#Features{
+    height: 100vh;
+    text-align: center;
+}
+
+#How{
+    height: 100vh;
+    text-align: center;
+}
+
+#Pricing{
+    height: 100vh;
+    text-align: center;
+}
+
+@media screen and (max-width: 1920px) {
+
+
+}
